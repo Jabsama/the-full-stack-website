@@ -285,4 +285,4 @@ VoltageGPU,RTX PRO 6000 Blackwell (96 GB),Blackwell,1,96,,,3.80,3.80,,rtx6000b-s
 VoltageGPU,H100 (80 GB),Hopper,1,80,,,6.95,6.95,,h100-small (Intel TDX confidential VM)
 VoltageGPU,H200 (141 GB),Hopper,1,141,,,8.08,8.08,,h200-small (Intel TDX confidential VM)
 VoltageGPU,H100 (80 GB),Hopper,8,640,,,55.62,6.95,,h100-xlarge (Intel TDX confidential VM, NVIDIA Protected PCIe)
-VoltageGPU,H200 (141 GB),Hopper,8,1128,,,64.62,8.08,,h200-xlarge (Intel TDX confidential VM, NVIDIA Protected PCIe)
+VoltageGPU,H200 (141 GB),Hopper,8,1128,,,64.62,8.08,,h200-xlarge (Intel TDX confidential VM)
